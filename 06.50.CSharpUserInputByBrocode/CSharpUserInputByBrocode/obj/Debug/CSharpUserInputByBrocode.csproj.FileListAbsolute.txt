@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpUserInputByBrocode\CSharpUserInputByBrocode\bin\Debug\CSharpUserInputByBrocode.exe.config
+C:\Users\James\source\repos\CSharpUserInputByBrocode\CSharpUserInputByBrocode\bin\Debug\CSharpUserInputByBrocode.exe
+C:\Users\James\source\repos\CSharpUserInputByBrocode\CSharpUserInputByBrocode\bin\Debug\CSharpUserInputByBrocode.pdb
+C:\Users\James\source\repos\CSharpUserInputByBrocode\CSharpUserInputByBrocode\obj\Debug\CSharpUserInputByBrocode.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpUserInputByBrocode\CSharpUserInputByBrocode\obj\Debug\CSharpUserInputByBrocode.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpUserInputByBrocode\CSharpUserInputByBrocode\obj\Debug\CSharpUserInputByBrocode.exe
+C:\Users\James\source\repos\CSharpUserInputByBrocode\CSharpUserInputByBrocode\obj\Debug\CSharpUserInputByBrocode.pdb

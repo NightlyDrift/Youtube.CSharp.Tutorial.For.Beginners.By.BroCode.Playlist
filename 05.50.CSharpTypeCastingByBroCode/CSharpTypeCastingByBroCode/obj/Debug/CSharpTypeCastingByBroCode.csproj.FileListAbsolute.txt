@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpTypeCastingByBroCode\CSharpTypeCastingByBroCode\bin\Debug\CSharpTypeCastingByBroCode.exe.config
+C:\Users\James\source\repos\CSharpTypeCastingByBroCode\CSharpTypeCastingByBroCode\bin\Debug\CSharpTypeCastingByBroCode.exe
+C:\Users\James\source\repos\CSharpTypeCastingByBroCode\CSharpTypeCastingByBroCode\bin\Debug\CSharpTypeCastingByBroCode.pdb
+C:\Users\James\source\repos\CSharpTypeCastingByBroCode\CSharpTypeCastingByBroCode\obj\Debug\CSharpTypeCastingByBroCode.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpTypeCastingByBroCode\CSharpTypeCastingByBroCode\obj\Debug\CSharpTypeCastingByBroCode.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpTypeCastingByBroCode\CSharpTypeCastingByBroCode\obj\Debug\CSharpTypeCastingByBroCode.exe
+C:\Users\James\source\repos\CSharpTypeCastingByBroCode\CSharpTypeCastingByBroCode\obj\Debug\CSharpTypeCastingByBroCode.pdb

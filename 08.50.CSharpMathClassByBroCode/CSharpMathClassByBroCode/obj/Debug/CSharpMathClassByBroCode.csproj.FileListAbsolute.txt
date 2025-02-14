@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpMathClassByBroCode\CSharpMathClassByBroCode\bin\Debug\CSharpMathClassByBroCode.exe.config
+C:\Users\James\source\repos\CSharpMathClassByBroCode\CSharpMathClassByBroCode\bin\Debug\CSharpMathClassByBroCode.exe
+C:\Users\James\source\repos\CSharpMathClassByBroCode\CSharpMathClassByBroCode\bin\Debug\CSharpMathClassByBroCode.pdb
+C:\Users\James\source\repos\CSharpMathClassByBroCode\CSharpMathClassByBroCode\obj\Debug\CSharpMathClassByBroCode.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpMathClassByBroCode\CSharpMathClassByBroCode\obj\Debug\CSharpMathClassByBroCode.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpMathClassByBroCode\CSharpMathClassByBroCode\obj\Debug\CSharpMathClassByBroCode.exe
+C:\Users\James\source\repos\CSharpMathClassByBroCode\CSharpMathClassByBroCode\obj\Debug\CSharpMathClassByBroCode.pdb

@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpOutputByBroCode\CSharpOutputByBroCode\obj\Debug\CSharpOutputByBroCode.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpOutputByBroCode\CSharpOutputByBroCode\obj\Debug\CSharpOutputByBroCode.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpOutputByBroCode\CSharpOutputByBroCode\bin\Debug\CSharpOutputByBroCode.exe.config
+C:\Users\James\source\repos\CSharpOutputByBroCode\CSharpOutputByBroCode\bin\Debug\CSharpOutputByBroCode.exe
+C:\Users\James\source\repos\CSharpOutputByBroCode\CSharpOutputByBroCode\bin\Debug\CSharpOutputByBroCode.pdb
+C:\Users\James\source\repos\CSharpOutputByBroCode\CSharpOutputByBroCode\obj\Debug\CSharpOutputByBroCode.exe
+C:\Users\James\source\repos\CSharpOutputByBroCode\CSharpOutputByBroCode\obj\Debug\CSharpOutputByBroCode.pdb
