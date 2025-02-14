@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpMultithreadingByBroCode50.50LFG\CSharpMultithreadingByBroCode50.50LFG\bin\Debug\CSharpMultithreadingByBroCode50.50LFG.exe.config
+C:\Users\James\source\repos\CSharpMultithreadingByBroCode50.50LFG\CSharpMultithreadingByBroCode50.50LFG\bin\Debug\CSharpMultithreadingByBroCode50.50LFG.exe
+C:\Users\James\source\repos\CSharpMultithreadingByBroCode50.50LFG\CSharpMultithreadingByBroCode50.50LFG\bin\Debug\CSharpMultithreadingByBroCode50.50LFG.pdb
+C:\Users\James\source\repos\CSharpMultithreadingByBroCode50.50LFG\CSharpMultithreadingByBroCode50.50LFG\obj\Debug\CSharpMultithreadingByBroCode50.50LFG.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpMultithreadingByBroCode50.50LFG\CSharpMultithreadingByBroCode50.50LFG\obj\Debug\CSharpMultithreadingByBroCode50.50LFG.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpMultithreadingByBroCode50.50LFG\CSharpMultithreadingByBroCode50.50LFG\obj\Debug\CSharpMultithreadingByBroCode50.50LFG.exe
+C:\Users\James\source\repos\CSharpMultithreadingByBroCode50.50LFG\CSharpMultithreadingByBroCode50.50LFG\obj\Debug\CSharpMultithreadingByBroCode50.50LFG.pdb
