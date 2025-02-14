@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpExceptionHandlingByBroCode50.27\CSharpExceptionHandlingByBroCode50.27\bin\Debug\CSharpExceptionHandlingByBroCode50.27.exe.config
+C:\Users\James\source\repos\CSharpExceptionHandlingByBroCode50.27\CSharpExceptionHandlingByBroCode50.27\bin\Debug\CSharpExceptionHandlingByBroCode50.27.exe
+C:\Users\James\source\repos\CSharpExceptionHandlingByBroCode50.27\CSharpExceptionHandlingByBroCode50.27\bin\Debug\CSharpExceptionHandlingByBroCode50.27.pdb
+C:\Users\James\source\repos\CSharpExceptionHandlingByBroCode50.27\CSharpExceptionHandlingByBroCode50.27\obj\Debug\CSharpExceptionHandlingByBroCode50.27.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpExceptionHandlingByBroCode50.27\CSharpExceptionHandlingByBroCode50.27\obj\Debug\CSharpExceptionHandlingByBroCode50.27.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpExceptionHandlingByBroCode50.27\CSharpExceptionHandlingByBroCode50.27\obj\Debug\CSharpExceptionHandlingByBroCode50.27.exe
+C:\Users\James\source\repos\CSharpExceptionHandlingByBroCode50.27\CSharpExceptionHandlingByBroCode50.27\obj\Debug\CSharpExceptionHandlingByBroCode50.27.pdb

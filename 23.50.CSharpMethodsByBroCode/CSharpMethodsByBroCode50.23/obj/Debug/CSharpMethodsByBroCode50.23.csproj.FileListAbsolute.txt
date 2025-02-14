@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpMethodsByBroCode50.23\CSharpMethodsByBroCode50.23\bin\Debug\CSharpMethodsByBroCode50.23.exe.config
+C:\Users\James\source\repos\CSharpMethodsByBroCode50.23\CSharpMethodsByBroCode50.23\bin\Debug\CSharpMethodsByBroCode50.23.exe
+C:\Users\James\source\repos\CSharpMethodsByBroCode50.23\CSharpMethodsByBroCode50.23\bin\Debug\CSharpMethodsByBroCode50.23.pdb
+C:\Users\James\source\repos\CSharpMethodsByBroCode50.23\CSharpMethodsByBroCode50.23\obj\Debug\CSharpMethodsByBroCode50.23.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpMethodsByBroCode50.23\CSharpMethodsByBroCode50.23\obj\Debug\CSharpMethodsByBroCode50.23.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpMethodsByBroCode50.23\CSharpMethodsByBroCode50.23\obj\Debug\CSharpMethodsByBroCode50.23.exe
+C:\Users\James\source\repos\CSharpMethodsByBroCode50.23\CSharpMethodsByBroCode50.23\obj\Debug\CSharpMethodsByBroCode50.23.pdb

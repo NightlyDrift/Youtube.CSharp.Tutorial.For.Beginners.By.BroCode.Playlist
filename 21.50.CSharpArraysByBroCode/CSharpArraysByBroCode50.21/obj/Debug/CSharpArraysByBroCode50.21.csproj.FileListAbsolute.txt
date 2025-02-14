@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpArraysByBroCode50.21\CSharpArraysByBroCode50.21\bin\Debug\CSharpArraysByBroCode50.21.exe.config
+C:\Users\James\source\repos\CSharpArraysByBroCode50.21\CSharpArraysByBroCode50.21\bin\Debug\CSharpArraysByBroCode50.21.exe
+C:\Users\James\source\repos\CSharpArraysByBroCode50.21\CSharpArraysByBroCode50.21\bin\Debug\CSharpArraysByBroCode50.21.pdb
+C:\Users\James\source\repos\CSharpArraysByBroCode50.21\CSharpArraysByBroCode50.21\obj\Debug\CSharpArraysByBroCode50.21.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpArraysByBroCode50.21\CSharpArraysByBroCode50.21\obj\Debug\CSharpArraysByBroCode50.21.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpArraysByBroCode50.21\CSharpArraysByBroCode50.21\obj\Debug\CSharpArraysByBroCode50.21.exe
+C:\Users\James\source\repos\CSharpArraysByBroCode50.21\CSharpArraysByBroCode50.21\obj\Debug\CSharpArraysByBroCode50.21.pdb
