@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpClassesByBroCode\CSharpClassesByBroCode\bin\Debug\CSharpClassesByBroCode.exe.config
+C:\Users\James\source\repos\CSharpClassesByBroCode\CSharpClassesByBroCode\bin\Debug\CSharpClassesByBroCode.exe
+C:\Users\James\source\repos\CSharpClassesByBroCode\CSharpClassesByBroCode\bin\Debug\CSharpClassesByBroCode.pdb
+C:\Users\James\source\repos\CSharpClassesByBroCode\CSharpClassesByBroCode\obj\Debug\CSharpClassesByBroCode.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpClassesByBroCode\CSharpClassesByBroCode\obj\Debug\CSharpClassesByBroCode.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpClassesByBroCode\CSharpClassesByBroCode\obj\Debug\CSharpClassesByBroCode.exe
+C:\Users\James\source\repos\CSharpClassesByBroCode\CSharpClassesByBroCode\obj\Debug\CSharpClassesByBroCode.pdb
