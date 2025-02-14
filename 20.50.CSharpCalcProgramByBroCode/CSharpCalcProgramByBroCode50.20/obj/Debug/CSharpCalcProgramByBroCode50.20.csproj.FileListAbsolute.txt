@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpCalcProgramByBroCode50.20\CSharpCalcProgramByBroCode50.20\bin\Debug\CSharpCalcProgramByBroCode50.20.exe.config
+C:\Users\James\source\repos\CSharpCalcProgramByBroCode50.20\CSharpCalcProgramByBroCode50.20\bin\Debug\CSharpCalcProgramByBroCode50.20.exe
+C:\Users\James\source\repos\CSharpCalcProgramByBroCode50.20\CSharpCalcProgramByBroCode50.20\bin\Debug\CSharpCalcProgramByBroCode50.20.pdb
+C:\Users\James\source\repos\CSharpCalcProgramByBroCode50.20\CSharpCalcProgramByBroCode50.20\obj\Debug\CSharpCalcProgramByBroCode50.20.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpCalcProgramByBroCode50.20\CSharpCalcProgramByBroCode50.20\obj\Debug\CSharpCalcProgramByBroCode50.20.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpCalcProgramByBroCode50.20\CSharpCalcProgramByBroCode50.20\obj\Debug\CSharpCalcProgramByBroCode50.20.exe
+C:\Users\James\source\repos\CSharpCalcProgramByBroCode50.20\CSharpCalcProgramByBroCode50.20\obj\Debug\CSharpCalcProgramByBroCode50.20.pdb

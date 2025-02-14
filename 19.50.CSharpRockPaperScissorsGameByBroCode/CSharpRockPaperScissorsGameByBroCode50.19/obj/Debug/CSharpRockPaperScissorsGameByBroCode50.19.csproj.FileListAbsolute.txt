@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpRockPaperScissorsGameByBroCode50.19\CSharpRockPaperScissorsGameByBroCode50.19\bin\Debug\CSharpRockPaperScissorsGameByBroCode50.19.exe.config
+C:\Users\James\source\repos\CSharpRockPaperScissorsGameByBroCode50.19\CSharpRockPaperScissorsGameByBroCode50.19\bin\Debug\CSharpRockPaperScissorsGameByBroCode50.19.exe
+C:\Users\James\source\repos\CSharpRockPaperScissorsGameByBroCode50.19\CSharpRockPaperScissorsGameByBroCode50.19\bin\Debug\CSharpRockPaperScissorsGameByBroCode50.19.pdb
+C:\Users\James\source\repos\CSharpRockPaperScissorsGameByBroCode50.19\CSharpRockPaperScissorsGameByBroCode50.19\obj\Debug\CSharpRockPaperScissorsGameByBroCode50.19.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpRockPaperScissorsGameByBroCode50.19\CSharpRockPaperScissorsGameByBroCode50.19\obj\Debug\CSharpRockPaperScissorsGameByBroCode50.19.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpRockPaperScissorsGameByBroCode50.19\CSharpRockPaperScissorsGameByBroCode50.19\obj\Debug\CSharpRockPaperScissorsGameByBroCode50.19.exe
+C:\Users\James\source\repos\CSharpRockPaperScissorsGameByBroCode50.19\CSharpRockPaperScissorsGameByBroCode50.19\obj\Debug\CSharpRockPaperScissorsGameByBroCode50.19.pdb

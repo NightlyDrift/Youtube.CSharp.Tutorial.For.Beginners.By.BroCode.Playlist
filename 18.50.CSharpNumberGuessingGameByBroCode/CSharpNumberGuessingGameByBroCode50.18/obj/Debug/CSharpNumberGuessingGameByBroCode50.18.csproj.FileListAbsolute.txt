@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpNumberGuessingGameByBroCode50.18\CSharpNumberGuessingGameByBroCode50.18\bin\Debug\CSharpNumberGuessingGameByBroCode50.18.exe.config
+C:\Users\James\source\repos\CSharpNumberGuessingGameByBroCode50.18\CSharpNumberGuessingGameByBroCode50.18\bin\Debug\CSharpNumberGuessingGameByBroCode50.18.exe
+C:\Users\James\source\repos\CSharpNumberGuessingGameByBroCode50.18\CSharpNumberGuessingGameByBroCode50.18\bin\Debug\CSharpNumberGuessingGameByBroCode50.18.pdb
+C:\Users\James\source\repos\CSharpNumberGuessingGameByBroCode50.18\CSharpNumberGuessingGameByBroCode50.18\obj\Debug\CSharpNumberGuessingGameByBroCode50.18.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpNumberGuessingGameByBroCode50.18\CSharpNumberGuessingGameByBroCode50.18\obj\Debug\CSharpNumberGuessingGameByBroCode50.18.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpNumberGuessingGameByBroCode50.18\CSharpNumberGuessingGameByBroCode50.18\obj\Debug\CSharpNumberGuessingGameByBroCode50.18.exe
+C:\Users\James\source\repos\CSharpNumberGuessingGameByBroCode50.18\CSharpNumberGuessingGameByBroCode50.18\obj\Debug\CSharpNumberGuessingGameByBroCode50.18.pdb
