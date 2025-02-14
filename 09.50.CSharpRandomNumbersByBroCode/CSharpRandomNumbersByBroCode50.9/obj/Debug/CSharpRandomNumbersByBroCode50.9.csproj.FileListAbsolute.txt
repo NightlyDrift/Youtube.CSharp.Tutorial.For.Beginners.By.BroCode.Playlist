@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\CSharpRandomNumbersByBroCode50.9\CSharpRandomNumbersByBroCode50.9\obj\Debug\CSharpRandomNumbersByBroCode50.9.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\CSharpRandomNumbersByBroCode50.9\CSharpRandomNumbersByBroCode50.9\obj\Debug\CSharpRandomNumbersByBroCode50.9.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CSharpRandomNumbersByBroCode50.9\CSharpRandomNumbersByBroCode50.9\bin\Debug\CSharpRandomNumbersByBroCode50.9.exe.config
+C:\Users\James\source\repos\CSharpRandomNumbersByBroCode50.9\CSharpRandomNumbersByBroCode50.9\bin\Debug\CSharpRandomNumbersByBroCode50.9.exe
+C:\Users\James\source\repos\CSharpRandomNumbersByBroCode50.9\CSharpRandomNumbersByBroCode50.9\bin\Debug\CSharpRandomNumbersByBroCode50.9.pdb
+C:\Users\James\source\repos\CSharpRandomNumbersByBroCode50.9\CSharpRandomNumbersByBroCode50.9\obj\Debug\CSharpRandomNumbersByBroCode50.9.exe
+C:\Users\James\source\repos\CSharpRandomNumbersByBroCode50.9\CSharpRandomNumbersByBroCode50.9\obj\Debug\CSharpRandomNumbersByBroCode50.9.pdb
